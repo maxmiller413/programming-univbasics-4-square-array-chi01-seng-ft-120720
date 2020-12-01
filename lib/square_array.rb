@@ -7,4 +7,5 @@ def square_array(array)
   array
 end
 
-def square_array()
+def square_array(numbers)
+  
