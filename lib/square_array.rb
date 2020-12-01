@@ -13,4 +13,5 @@ def square_array(numbers)
   while counter < numbers.length
     new_array.push(numbers[counter]) ** 2 
     counter += 1 
-    
+  end
+end 
