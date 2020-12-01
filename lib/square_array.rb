@@ -12,4 +12,4 @@ def square_array(numbers)
   counter = 0 
   while counter < numbers.length
     new_array.push(numbers[counter]) ** 2 
-    
+    counter += 1 
